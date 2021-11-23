@@ -11,5 +11,5 @@
 v0.1 - HTML structure, CSS font and color setting
 
 ## Upcoming Changes
-Element layout
-Responsive design
+- Element layout
+- Responsive design
